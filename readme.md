@@ -1,0 +1,1 @@
+[こちら](https://zenn.dev/horitaka/articles/c75b754e648512)の記事で紹介しているpytest導入のサンプルコードです。
